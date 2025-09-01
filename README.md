@@ -19,9 +19,9 @@ Key Insights:
 
 TECHNOLOGIES USED
 
-Google Sheets for Cleaning and Preprocessing
-My Brain for brainstorming
-Google Looker Studio for Visualization
+-Google Sheets for Cleaning and Preprocessing
+-My Brain for brainstorming
+-Google Looker Studio for Visualization
 
 DATA SOURCE
 
