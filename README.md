@@ -10,18 +10,18 @@ This repository contains a dashboard analyzing skills for learning from an onlin
 
 FEATURES
 
-Clear and concise insights.
-Interactive buttons for navigation.
-Visualizations: Bar charts, trendlines, stars and KPIs.
-Key Insights:
+- Clear and concise insights.
+- Interactive buttons for navigation.
+- Visualizations: Bar charts, trendlines, stars and KPIs.
+- Key Insights:
 - E-commerce was the best best choice if you don't to stress the brain
 - Content Creation required the lost daily time commitment to learn
 
 TECHNOLOGIES USED
 
--Google Sheets for Cleaning and Preprocessing
--My Brain for brainstorming
--Google Looker Studio for Visualization
+- Google Sheets for Cleaning and Preprocessing
+- My Brain for brainstorming
+- Google Looker Studio for Visualization
 
 DATA SOURCE
 
