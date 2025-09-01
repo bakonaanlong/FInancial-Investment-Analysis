@@ -19,7 +19,7 @@ FEATURES
 
 TECHNOLOGIES USED
 
-- Google Sheets for Cleaning and Preprocessing
+- Google Sheets for Cleaning and Preprocessing the data
 - My Brain for brainstorming
 - Google Looker Studio for Visualization
 
