@@ -100,15 +100,5 @@ Revenue per Hour (Approx.):
 3. **Introduce Cognitive Load Trackers** — real-time dashboards to prevent burnout in high-load hustles (Crypto, Stocks).
 4. **Certify Freelancing Skills** — micro-credentials to increase perceived value and pricing power.
 
-### **For Policymakers**
-- Promote **digital literacy curricula** focused on Content Creation and E-Commerce.
-- Establish **micro-insurance products** for crypto and stock side traders to reduce perceived risk.
-
 ---
 
-**Data Source**: Anonymized cohort study (Jan–Nov 2025)  
-**Contact**: analytics@sidehustle.org  
-**License**: CC BY-NC-SA 4.0 (Non-commercial, attribution required)  
-
----  
-*End of Document*
