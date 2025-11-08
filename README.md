@@ -5,7 +5,7 @@
 
 ## 1. Background and Overview
 
-This dashboard presents a comparative analysis of five high-potential side hustles: **E-Commerce**, **Crypto Trading**, **Content Creation**, **Freelancing**, and **Stock Market Investing**. The data is aggregated from a cohort of verified participants who reported earnings, time investment, and perceived cognitive load over an 11-month period (January to November 2024).
+This dashboard presents a comparative analysis of five high-potential side hustles: **E-Commerce**, **Crypto Trading**, **Content Creation**, **Freelancing**, and **Stock Market Investing**. The data is aggregated from a cohort of verified participants who reported earnings, time investment, and perceived cognitive load over an 11-month period (January to November 2024). This data was visualized in Ms Excel
 
 The primary objective is to provide actionable intelligence for individuals seeking to optimize supplemental income streams. Metrics are normalized across participants to ensure fair cross-category comparison. All revenue figures are reported in **USD** and represent *average monthly reported revenue* per active participant.
  
